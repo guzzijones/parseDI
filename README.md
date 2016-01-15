@@ -5,5 +5,4 @@ slpp
 https://github.com/guzzijones/slpp
 
 #example
-    from parseDI import diObjFile
-    myfile = diObjFile(parsedArgs.inputfile)
+(todo)
